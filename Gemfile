@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'devise', '~> 3.4.0'
 
 gem 'paperclip', '~> 4.2.0'
-
+gem "mini_magick"
 
 
 
