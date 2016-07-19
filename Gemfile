@@ -6,7 +6,7 @@ gem 'devise', '~> 3.4.0'
 gem 'paperclip', '~> 4.2.0'
 gem "mini_magick"
 gem 'bootstrap-sass', '~> 3.3.6'
-
+gem 'searchkick', '~> 0.8.3'
 
 
 
